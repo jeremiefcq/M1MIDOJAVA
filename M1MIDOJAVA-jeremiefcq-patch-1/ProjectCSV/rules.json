@@ -1,0 +1,10 @@
+[ 
+   { 
+      "name":"AGE",
+      "should":["BE_AN_AGE"]
+   },
+   { 
+      "name":"EMAIL_PERSO",
+      "should":["BE_AN_EMAIL"]
+   }
+]
