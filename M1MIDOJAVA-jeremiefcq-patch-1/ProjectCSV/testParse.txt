@@ -1,0 +1,6 @@
+NOM|AGE|DATE_DE_NAISSANCE|EMAIL_PERSO
+jeremie|125|truc|jerem@gmail.com
+truc|25|truc|jerem.fcq@gmail.com
+machin|25|truc|jerem@gmail.com
+nom|25|truc|jerem@gmail.com|troplong
+jeremie|25|tropcourt
